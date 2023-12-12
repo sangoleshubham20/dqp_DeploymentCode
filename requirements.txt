@@ -1,0 +1,11 @@
+scikit-learn==1.2.2
+beautifulsoup4
+Distance
+fuzzywuzzy
+matplotlib
+numpy
+pandas
+Pillow
+seaborn
+streamlit
+streamlit_option_menu
